@@ -18,5 +18,5 @@ while d > 1:
         else:
             print str(n) + ' is not prime'
     
-    
+ 
     

@@ -13,7 +13,7 @@ def main():
     
 
 def prime(n,d):
-    while d > 1 and d < 100:              
+    while d > 1 and d < 5000:              
         d = d - 1
                        
         if n % d == 0:            
